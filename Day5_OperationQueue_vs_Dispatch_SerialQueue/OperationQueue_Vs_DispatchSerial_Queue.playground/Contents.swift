@@ -1,12 +1,5 @@
 import UIKit
 
-/**
-Hey there, I hope the video was helpful. Please feel free to ask questions regarding the topic I will be happy to answer them for you. Do share the topic with your iOS group on facebook or whatsapp and if you are new to the channel please do support the channel by subscribing to it.
-
- Thank you
- Ravi (Codecat15) :)
-
- */
 
 struct Employee
 {

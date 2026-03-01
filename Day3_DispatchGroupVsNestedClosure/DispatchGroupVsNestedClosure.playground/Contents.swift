@@ -1,11 +1,4 @@
 import Foundation
-
-/**I hope the video was helpful, please feel free to ask questions and if you are new to the channel then please subscribe, like and share the video with your iOS group
-
- Regards,
- Ravi (CodeCat15)
- */
-
 struct Example
 {
     func work()
